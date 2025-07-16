@@ -1,5 +1,3 @@
-## Heyyi everyone
+## Welcome to Git
 
-Johnny here
-
-- I'm adding this from feature
+-This is coming from adrian
